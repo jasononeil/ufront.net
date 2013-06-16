@@ -1,0 +1,7 @@
+{
+	"repoDir": "pages/",
+	"repos": [
+		{ "name": "wiki", "url": "https://github.com/ufront/ufront.wiki.git" },
+		{ "name": "guides", "url": "https://github.com/ufront/ufront-guides.git" }
+	]
+}

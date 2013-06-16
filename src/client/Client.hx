@@ -1,0 +1,6 @@
+package client;
+
+class Client
+{
+	
+}
