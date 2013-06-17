@@ -30,6 +30,7 @@ class Tasks extends TaskSet
 	}
 
 	static function main() {
+		server.DB.connect();
 		TaskSet.run( new Tasks(), Sys.args() );
 	}
 }

@@ -1,6 +1,7 @@
 -lib ufront
 -lib tink_core
 -lib compiletime
+-lib markdown
 -main server.Server
 -cp src
 -D server 
